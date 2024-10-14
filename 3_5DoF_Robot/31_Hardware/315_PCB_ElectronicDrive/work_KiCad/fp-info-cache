@@ -1,0 +1,169 @@
+39923453063793
+1_ProjectSpecific
+Arduino Uno Shield Mini BBB
+
+
+0
+32
+31
+1_ProjectSpecific
+BC548_TO92
+
+
+0
+3
+3
+1_ProjectSpecific
+Connector_3_2.54
+
+
+0
+3
+3
+1_ProjectSpecific
+Molex_3Pin_Header
+
+
+0
+3
+3
+1_ProjectSpecific
+Relay_AHQSH105LM100G
+
+
+0
+4
+4
+1_ProjectSpecific
+SMD-Switch
+
+
+0
+6
+2
+Capacitor_SMD
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_THT
+CP_Radial_D8.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
+0
+2
+2
+Connector_Phoenix_MC
+PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/3-G-3.81; number of pins: 03; pin pitch: 3.81mm; Vertical || order number: 1803439 8A 160V
+phoenix_contact connector MCV_01x03_G_3.81mm
+0
+3
+3
+Connector_Phoenix_MC
+PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal
+Generic Phoenix Contact connector footprint for: MC_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Angled || order number: 1803277 8A 160V
+phoenix_contact connector MC_01x02_G_3.81mm
+0
+2
+2
+Connector_Phoenix_MC
+PhoenixContact_MC_1,5_3-G-3.81_1x03_P3.81mm_Horizontal
+Generic Phoenix Contact connector footprint for: MC_1,5/3-G-3.81; number of pins: 03; pin pitch: 3.81mm; Angled || order number: 1803280 8A 160V
+phoenix_contact connector MC_01x03_G_3.81mm
+0
+3
+3
+Diode_SMD
+D_SMB
+Diode SMB (DO-214AA)
+Diode SMB (DO-214AA)
+0
+2
+2
+Diode_SMD
+D_SMB_Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+0
+2
+2
+Fuse
+Fuse_1812_4532Metric
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+LED_THT
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+Package_DIP
+DIP-8_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_TO_SOT_THT
+TO-92_HandSolder
+TO-92 leads molded, narrow, drill 0.75mm, handsoldering variant with enlarged pads (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Inline
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_PTA6043_Single_Slide
+Bourns single-gang slide potentiometer, 60.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 60.0mm
+0
+7
+4
+Resistor_SMD
+R_1206_3216Metric
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Symbol
+OSHW-Logo2_7.3x6mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0

@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1_ProjectSpecific")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/1_ProjectSpecific.pretty")(options "")(descr ""))
+  (lib (name "Connector_Phoenix_MC")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/Connector_Phoenix_MC.pretty")(options "")(descr ""))
+  (lib (name "Jumper")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/Jumper.pretty")(options "")(descr ""))
+  (lib (name "LED_SMD")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/LED_SMD.pretty")(options "")(descr ""))
+  (lib (name "MountingHole")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/MountingHole.pretty")(options "")(descr ""))
+  (lib (name "Resistor_SMD")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/Resistor_SMD.pretty")(options "")(descr ""))
+  (lib (name "Symbol")(type "KiCad")(uri "${KIPRJMOD}/Library/Footprints/Symbol.pretty")(options "")(descr ""))
+)

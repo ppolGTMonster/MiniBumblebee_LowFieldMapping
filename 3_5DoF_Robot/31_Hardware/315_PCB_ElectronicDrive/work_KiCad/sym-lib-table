@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1_ProjectSpecific")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/1_ProjectSpecific.kicad_sym")(options "")(descr ""))
+  (lib (name "Amplifier_Operational")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/Amplifier_Operational.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino-library")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/arduino-library.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Generic")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/Connector_Generic.kicad_sym")(options "")(descr ""))
+  (lib (name "Device")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/Device.kicad_sym")(options "")(descr ""))
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/power.kicad_sym")(options "")(descr ""))
+  (lib (name "Reference_Voltage")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/Reference_Voltage.kicad_sym")(options "")(descr ""))
+  (lib (name "Transistor_BJT")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/Transistor_BJT.kicad_sym")(options "")(descr ""))
+)
