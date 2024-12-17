@@ -56,7 +56,7 @@ const int Address_H7 = 108;  // Hall 7
 const int Address_H8 = 110;  // Hall 8
 
 // Number of averaged measurements
-const int Repeat_Steps = 50; //Number of internal repetitions, these values are averaged arithmetically.
+const int Repeat_Steps = 1000; //Number of internal repetitions, these values are averaged arithmetically.
 
 // Hall Mode: Single-Ended Operation, reports mag data from X/Y/Z
 const int hall_mode = 0;  

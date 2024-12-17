@@ -16,6 +16,9 @@ Florian Birk
   * https://github.com/birkfl
   * helped with the Motion Tracking & the openCV Library
 
+Sergej Maltsev
+  * https://github.com/TheWinterProgrammer
+  * helped with the Hardware 
 
 ## How to use
 

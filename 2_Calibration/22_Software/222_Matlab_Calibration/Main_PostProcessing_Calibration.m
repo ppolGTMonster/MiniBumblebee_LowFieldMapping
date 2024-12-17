@@ -48,7 +48,7 @@ Temp_Coeff_gain_error2 = Temp_Coeff_gain_error/2;   % square part
 %maximum temperature coefficient of the offset
 TC_OS_error = 50*0.07;                              %mT/°C, from Datasheet A1342 Application Info
 % Offset during linearity measurements (caused by earth's magnetic field + stray field of devices in the laboratory)
-OS_Earth = 50 * 1.5 *1e-3; % µT aus den mT Messungen
+OS_Earth = 50 * 1.5 *1e-3; % mT, Earth Magnetic Field + stray field
 
 % Weighting of the measured values between the linearity measurement and the temperature sweep measurement:
 opt_weight_MeasCal = 2; % In the Lin measurement, the sensors were individually perfectly in the center of the cylinder (therefore double weighted). 
@@ -58,7 +58,7 @@ opt_weight_TempCal = 1; % This was not so good in the temperature measurement (t
 % Variables that are optimized: [Gain TC1(Gain) TC12(Gain) TC2(OS)]x, ... ,[Gain TC1(Gain) TC12(Gain) TC2(OS)]z OS_Env 
 % Where OS_Env stands for earth's magnetic field + stray field
 
-x0 = [1.01,0.001,0,40e-3];% Startwert
+x0 = [1.01,0.001,0,40e-3];                                                              % Start Value
 ub_xy = [1 + Lin_error_xy, Temp_Coeff_gain_error, Temp_Coeff_gain_error2 ,TC_OS_error]; % upper 
 lb_xy = [1 - Lin_error_xy, 0,                    -Temp_Coeff_gain_error2,-TC_OS_error]; % lower Limit for x/y axis
 ub_z =  [1 + Lin_error_z,  Temp_Coeff_gain_error, Temp_Coeff_gain_error2 ,TC_OS_error]; % upper

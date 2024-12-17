@@ -9,7 +9,7 @@ global SetFile_System
 
 
 time_on = SetFile_System.WaitOnPos_BSens - 2*1; % Sec
-time_on = time_on *1e6;     %Microseconds
+time_on = time_on *1e3;     % Milliseconds
 
 flush(Relais_Control);
 pause(0.001);
