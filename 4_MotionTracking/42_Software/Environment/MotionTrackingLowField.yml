@@ -1,7 +1,7 @@
 name: MotionTrackingLowField
 channels:
   - conda-forge
-  - defaults
+#  - defaults
 dependencies:
   - bzip2=1.0.8=hcfcfb64_5
   - ca-certificates=2024.2.2=h56e8100_0
@@ -63,4 +63,4 @@ dependencies:
   - wheel=0.42.0=pyhd8ed1ab_0
   - xz=5.2.6=h8d14728_0
   - zstd=1.5.5=h12be248_0
-prefix: C:\Users\ppovolni\Anaconda3\envs\MotionTrackingLowField
+# prefix: C:\Users\ppovolni\Anaconda3\envs\MotionTrackingLowField

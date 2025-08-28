@@ -9,7 +9,7 @@
 import os, cv2
 
 # number of needed images
-num_img = 300
+num_img = 20 # we recommend to set 300 for good results
 
 # video path for conversion
 for f in os.listdir('0_calibration/'):

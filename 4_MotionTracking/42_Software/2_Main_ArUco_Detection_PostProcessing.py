@@ -25,10 +25,10 @@ from Functions_PostProcessingSetUp import save_Data
 #### 0) SetUp Motion Tracking ####
 ## 0.0) Measurement Information
 # Amount of moved positions during the measurement (nends to fit the video!)
-count_pos = 512
+# Here a Low Quality Video is used for an example (your quality should be at least FullHD with high bitrate >1.000.000) 
+count_pos = 18
 # Path of Videofile
-video_file = 'D:/4_LocalMassStorage/LowBudegt Robot LOCAL/aufgezeichnete Videos/Messungen_24_04_17/Halbach FOV/V3/Halbach2.mp4'
-
+video_file = '4_ExampleMotionTracking/ExpGithub_LQ.mp4'
 
 ## 0.1) Create Objects
 # Check the class description - these objects are the most important stuff here ;)

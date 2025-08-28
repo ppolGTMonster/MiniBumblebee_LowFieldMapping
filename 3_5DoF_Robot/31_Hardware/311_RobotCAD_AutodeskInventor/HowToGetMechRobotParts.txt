@@ -1,0 +1,12 @@
+In this project, we used the TinkerCAD Braccio robot from Arduino.
+CAD is not absolutely necessary. 
+In our case, the robot's CAD was used to position the markers correctly and measure the lengths and positions. 
+
+You can download the CAD for the Arduino robot directly:
+https://content.arduino.cc/assets/braccio%20cad.zip
+
+We used the CAD from GeekThomad from the GrabCAD platform:
+https://grabcad.com/library/arduino-braccio-robotic-arm-1/details?folder_id=13655787
+Published: April 21, 2023
+(Check License: https://grabcad.com/terms, commercial use is prohibited)
+This CAD is much better structured and much easier to use. Take a look and see what you need and which you can use.

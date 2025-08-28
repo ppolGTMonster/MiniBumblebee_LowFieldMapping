@@ -39,19 +39,19 @@ step_goal = 5e-3;   %m, Step size of the interpolated grid
 
 
 % Measured Hall Data
-file_HallData = '\Halbach\Measurement_17-Apr-2024_20_11_23.mat';
+file_HallData = '\Measurement_Hallsens.mat';
 %file_HallData = '\GradX\Measurement_17-Apr-2024_21_10_23.mat';
 
 % Motion Tracking Data
-file_MT = '\Halbach\MotionTracking_Log.csv';
+file_MT = '\MotionTracking_Log.csv';
 %file_MT = '\GradX\MotionTracking_Log.csv';
 
 % FOV Points
-file_FOV='\Halbach\FOV_Trajectory_alphas.mat';
+file_FOV='\FOV_Trajectory_alphas.mat';
 %file_FOV='\GradX\FOV_Trajectory_alphas.mat';
 
 %Calibration Data
-file_CalHallData = '\Calibration_50mT_27-May-2024_MessungFeb_Coilm4.2_mitOffset_6z.mat';
+file_CalHallData = '\Calibration_50mT_27-May-2024.mat';
 
 
 %% 1) Load Files
