@@ -34,15 +34,15 @@ To get you started with the project as easily as possible, there are 4 instructi
 
 ## Name
 We always refer to this robot as Mini-Bumblebee in our team. The “big” Bumblebee refers to the large cubic robot that was built. Bumblebee itself stands for:
-B-Field
-Unterstanding and
-Mapping using
-Benchmarked
-Localized Hall
-Effect-based 
-Background
-Estimation and
-Evaluation
+* B-Field
+* Unterstanding and
+* Mapping using
+* Benchmarked
+* Localized Hall
+* Effect-based 
+* Background
+* Estimation and
+* Evaluation
 
 ## Citing
 
