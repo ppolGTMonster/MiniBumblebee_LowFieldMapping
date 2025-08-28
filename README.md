@@ -32,9 +32,22 @@ To get you started with the project as easily as possible, there are 4 instructi
 * Motion tracking (description of the motion tracking setup & camera, including calibration)
 * Mapping (description of the measurement process)
 
+## Name
+We always refer to this robot as Mini-Bumblebee in our team. The “big” Bumblebee refers to the large cubic robot that was built. Bumblebee itself stands for:
+B-Field
+Unterstanding and
+Mapping using
+Benchmarked
+Localized Hall
+Effect-based 
+Background
+Estimation and
+Evaluation
 
 ## Citing
 
 If you use this code, please cite the corresponding paper:
 
-tbd
+Povolni, P., Bendfeld, R., Maltsev, S. et al. Easy scalable, low-cost open-source magnetic field detection system for evaluating low-field MRI magnets using a motion-tracked robot. Magn Reson Mater Phy (2025). https://doi.org/10.1007/s10334-025-01239-1
+
+https://link.springer.com/article/10.1007/s10334-025-01239-1
