@@ -8,9 +8,8 @@ AND Hardware in Folder 3_5DoF_Robot/31_Hardware/315_PCB_ElectronicDrive
 
 ****
 For License regarding the Hardware in Folder:
-* 311_RobotCAD_AutodeskInventor
-* 312_RobotCAD_STEP
--> see License #2
+* check the original parts on arduino.cc or grabcad.com
+(see the info in file HowToGetMechRobotParts.txt in folder 3_5DoF_Robot\31_Hardware\311_RobotCAD_AutodeskInventor)
 
 ****
 
@@ -40,41 +39,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------
 
-
---------------
-License #2
---------------
-The mechanical parts of the used robot (TinkerCAD Braccio) in folder
-* 311_RobotCAD_AutodeskInventor
-* 312_RobotCAD_STEP
-based on work by GeekThomas, available on GrabCAD:
-(April 21st, 2023, https://grabcad.com/library/arduino-braccio-robotic-arm-1/details?folder_id=13655787)
-USE OF THESE PARTS FOR COMMERCIAL USE IS PROHIBITED!
-For more information, see https://grabcad.com/terms
-
-The work of GeekThomas is based on a publication of the CAD by Arduino here:
-https://content.arduino.cc/assets/braccio%20cad.zip
-
-
-MIT License
-
-Copyright (c) 2024 Pavel Povolni, Tuebingen, Germany
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
---------------
